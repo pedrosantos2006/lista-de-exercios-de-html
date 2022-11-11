@@ -1,0 +1,37 @@
+.main-content {
+    background: #FEFEDCff;
+    padding: 30px;
+}
+
+main h2 {
+    text-align: center;
+    font-family: garamond, georgia, serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.main-text {
+    padding: 20px 0;
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.main-text img {
+    width: 20%;
+}
+
+.column {
+  float: left;
+  width: 55%;
+  padding: 5px;
+}
+
+.main-text p {
+    text-align: center;
+}
+
+em strong {
+    font-size: 20px;
+    color: #6F1D1B;
+}
